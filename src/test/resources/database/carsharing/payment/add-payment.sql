@@ -1,0 +1,1 @@
+INSERT INTO payments (id, status, type, session_url, session_id, amount) VALUES (40, 'PAID', 'PAYMENT', 'https://sessionurlnew.com', 'sessionidnew', 50.99)
